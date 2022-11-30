@@ -49,6 +49,7 @@ p {
 button {
   background: #017143;
   color: #fff;
+  font-size: 20px;
   border-radius: 40px;
   border: none;
   cursor: pointer;
