@@ -52,8 +52,12 @@ button {
   border-radius: 40px;
   border: none;
   cursor: pointer;
-  padding: 10px;
+  padding: 10px 60px;
   margin-top: 25px;
+}
+
+button:hover {
+  background: #0fa466;
 }
 
 .logo {
@@ -69,10 +73,6 @@ button {
   transition: 1s;
   cursor: pointer;
   margin: 10px;
-}
-
-.botao-menu:hover {
-  transform: translateY(-25px);
 }
 
 .circulo {
